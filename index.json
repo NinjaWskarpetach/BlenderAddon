@@ -7,7 +7,7 @@
       "id": "my_addon",
       "name": "My Addon",
       "tagline": "My Addon",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "type": "add-on",
       "maintainer": "Your Name",
       "license": [
