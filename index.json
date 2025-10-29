@@ -1,0 +1,25 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "my_addon",
+      "name": "My Addon",
+      "tagline": "My Addon",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "Your Name",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "tags": [
+        "3D View"
+      ],
+      "archive_url": "./my_addon_1.0.0.zip",
+      "archive_size": 3132,
+      "archive_hash": "sha256:9937c04d7338257b7df1210d96876ee466808ef7425ee4e595dd8598397b9215"
+    }
+  ]
+}
