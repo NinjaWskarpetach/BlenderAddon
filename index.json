@@ -7,9 +7,9 @@
       "id": "my_addon",
       "name": "My Addon",
       "tagline": "My Addon",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "type": "add-on",
-      "maintainer": "Your Name",
+      "maintainer": "Seba",
       "license": [
         "SPDX:GPL-2.0-or-later"
       ],
@@ -17,9 +17,9 @@
       "tags": [
         "3D View"
       ],
-      "archive_url": "./my_addon_1.0.1.zip",
-      "archive_size": 3135,
-      "archive_hash": "sha256:8c55973defef695f8d527b2c8854ae6b3a738bf0afda37b875bc6a38af258f5b"
+      "archive_url": "./my_addon_1.0.3.zip",
+      "archive_size": 3129,
+      "archive_hash": "sha256:d95bc9c9dcee2bfb0a75e9e2991209ee2bdf892e45e7d4dfb657fd843b31aa96"
     }
   ]
 }
