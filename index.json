@@ -7,7 +7,7 @@
       "id": "my_addon",
       "name": "My Addon",
       "tagline": "My Addon",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "type": "add-on",
       "maintainer": "Your Name",
       "license": [
@@ -18,8 +18,8 @@
         "3D View"
       ],
       "archive_url": "./my_addon_1.0.0.zip",
-      "archive_size": 3132,
-      "archive_hash": "sha256:9937c04d7338257b7df1210d96876ee466808ef7425ee4e595dd8598397b9215"
+      "archive_size": 3130,
+      "archive_hash": "sha256:45044deee2801e7b48894f0a2485375d189ea3da59f20056b74e3ddb21956a37"
     }
   ]
 }
