@@ -20,6 +20,25 @@
       "archive_url": "./titanforge_1.0.4.zip",
       "archive_size": 5383,
       "archive_hash": "sha256:6349423e842dd1cfc548e6ef59819c08833707d64fa46e460e2f2c3ae7bd5b55"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "titanforge",
+      "name": "Titan-Forge",
+      "tagline": "Titan-Forge",
+      "version": "1.0.6",
+      "type": "add-on",
+      "maintainer": "Sebastian",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "tags": [
+        "3D View"
+      ],
+      "archive_url": "./titanforge_1.0.6.zip",
+      "archive_size": 6307,
+      "archive_hash": "sha256:3a54954556433cc861a518895a55226e453973dee45918e0b1b2cae4fd8298ed"
     }
   ]
 }
