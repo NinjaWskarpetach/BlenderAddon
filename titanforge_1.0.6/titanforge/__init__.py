@@ -109,9 +109,9 @@ def sna_update_sna_latticeresolution_5E75F(self, context):
     add_or_update_lattices_for_selected_objects()
 
 
-class SNA_PT_TITANFORGE_V108_E4D2D(bpy.types.Panel):
+class SNA_PT_TITANFORGE_V108_F6B06(bpy.types.Panel):
     bl_label = 'Titan-Forge_v1.0.8'
-    bl_idname = 'SNA_PT_TITANFORGE_V108_E4D2D'
+    bl_idname = 'SNA_PT_TITANFORGE_V108_F6B06'
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
     bl_context = ''
@@ -609,7 +609,7 @@ def register():
     global _icons
     _icons = bpy.utils.previews.new()
     bpy.types.Scene.sna_latticeresolution = bpy.props.IntVectorProperty(name='LatticeResolution', description='', size=3, default=(3, 3, 3), subtype='NONE', update=sna_update_sna_latticeresolution_5E75F)
-    bpy.utils.register_class(SNA_PT_TITANFORGE_V108_E4D2D)
+    bpy.utils.register_class(SNA_PT_TITANFORGE_V108_F6B06)
     bpy.utils.register_class(SNA_OT_Seperatbymaterial_0D494)
     bpy.utils.register_class(SNA_OT_Attachedtoarmature_D85De)
     bpy.utils.register_class(SNA_OT_Exporttruescale_C617C)
@@ -630,7 +630,7 @@ def unregister():
         km.keymap_items.remove(kmi)
     addon_keymaps.clear()
     del bpy.types.Scene.sna_latticeresolution
-    bpy.utils.unregister_class(SNA_PT_TITANFORGE_V108_E4D2D)
+    bpy.utils.unregister_class(SNA_PT_TITANFORGE_V108_F6B06)
     bpy.utils.unregister_class(SNA_OT_Seperatbymaterial_0D494)
     bpy.utils.unregister_class(SNA_OT_Attachedtoarmature_D85De)
     bpy.utils.unregister_class(SNA_OT_Exporttruescale_C617C)
