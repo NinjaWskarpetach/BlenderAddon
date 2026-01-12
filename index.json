@@ -7,7 +7,7 @@
       "id": "titanforge",
       "name": "Titan-Forge",
       "tagline": "Titan-Forge",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "type": "add-on",
       "maintainer": "Sebastian",
       "license": [
@@ -18,9 +18,9 @@
       "tags": [
         "Company"
       ],
-      "archive_url": "./titanforge_1.1.0.zip",
-      "archive_size": 7550,
-      "archive_hash": "sha256:2ac54095239858d58991e1ce22eb1fce4bed727e6a30bbd6d9d2fc9ea1952f7e"
+      "archive_url": "./titanforge_1.1.1.zip",
+      "archive_size": 7551,
+      "archive_hash": "sha256:df006e1f812ce302f839f72a44dccf3a33304b972b8f59de1efda91f46908856"
     }
   ]
 }

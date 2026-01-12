@@ -1,1 +1,1 @@
-"C:\Program Files (x86)\Steam\steamapps\common\Blender\blender.exe" --command extension server-generate --repo-dir "D:\TITAN FORGE Dropbox\TITAN FORGE Dropbox\Sebastian Dubiel\Figurki\standard anatomies\assety\Addon\BlenderAddon"
+"D:\SteamLibrary\steamapps\common\Blender\blender.exe" --command extension server-generate --repo-dir "D:\TITAN FORGE Dropbox\TITAN FORGE Dropbox\Sebastian Dubiel\Figurki\standard anatomies\assety\Addon\BlenderAddon"
