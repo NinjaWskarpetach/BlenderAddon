@@ -21,6 +21,26 @@
       "archive_url": "./titanforge_1.1.1.zip",
       "archive_size": 7551,
       "archive_hash": "sha256:df006e1f812ce302f839f72a44dccf3a33304b972b8f59de1efda91f46908856"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "titanforge",
+      "name": "Titan-Forge",
+      "tagline": "Titan-Forge",
+      "version": "1.1.2",
+      "type": "add-on",
+      "maintainer": "Sebastian",
+      "license": [
+        "SPDX:GPL-2.0-or-later"
+      ],
+      "blender_version_min": "4.2.0",
+      "website": "https://ninjawskarpetach.github.io/Titan-Forge_Doc.github.io/docs/category/tutorial---basics/",
+      "tags": [
+        "Company"
+      ],
+      "archive_url": "./titanforge_1.1.2.zip",
+      "archive_size": 8993,
+      "archive_hash": "sha256:f7fa5d121f0e7ec19dab558b7b9091c01f166fdb93f9d473248a0450aadb5d47"
     }
   ]
 }
