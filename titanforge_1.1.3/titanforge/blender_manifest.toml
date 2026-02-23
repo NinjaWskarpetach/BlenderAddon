@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "titanforge"
+version = "1.1.3"
+name = "Titan-Forge"
+tagline = "Titan-Forge"
+maintainer = "Sebastian"
+type = "add-on"
+website = "https://ninjawskarpetach.github.io/Titan-Forge_Doc.github.io/docs/category/tutorial---basics/"
+tags = ["Company"]
+blender_version_min = "4.2.0"
+license = [
+"SPDX:GPL-2.0-or-later",
+]
